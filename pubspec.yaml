@@ -13,6 +13,7 @@ dependencies:
       url: https://github.com/waqadArshad/esc_pos_utils.git
   escposprinter:
     git: https://github.com/kahero-team/escposprinter.git
+    ref: main
 
   flutter:
     sdk: flutter
