@@ -14,7 +14,6 @@ dependencies:
   escposprinter:
     git:
       url: https://github.com/kahero-team/escposprinter.git
-
   flutter:
     sdk: flutter
   # esc_pos_utils:

@@ -87,7 +87,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: fd3e3befc1bf4607131252c5ea7d34d62bcaed8d
+      resolved-ref: "13ba9a38012847807d9b9bdfb0f2c5f491bf2680"
       url: "https://github.com/kahero-team/escposprinter.git"
     source: git
     version: "0.0.1"
